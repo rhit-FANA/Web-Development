@@ -1,0 +1,25 @@
+p{margin:0;background-color: #fff ;}
+
+
+.bluebox{background-color:blue;height:100px;width:100px;color:violet;padding:10px;border-width:10px;border-radius:  80px;
+                border-color:black green orange yellow;border-style:ridge}
+.yellowbox{background-color: green;height:70px;width:auto;color:aqua; padding: 10px 20px 10px 30px;margin:10px}
+            
+.greenbox{
+    background-color: yellow;
+    height:100px;
+    width:auto;
+    color:brown;
+    padding: 40px;
+    border-top-width: 20px;
+    margin:10px;
+    border-bottom-width:20px;
+    background-image:url(image/goobed.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-origin: content-box;
+    outline-style: double;
+    outline-width: thick;
+    outline-color: red}
+            
+.greedy{font-size:300%}
